@@ -1,0 +1,24 @@
+.GroupeTitle{
+    -fx-padding: 20px;
+    -fx-font-family: "Geist SemiBold", SansSerif;
+    -fx-alignment: center;
+}
+.Greetings{
+    -fx-alignment: center;
+}
+.Home{
+    -fx-alignment: center;
+}
+.BigTitle{
+    -fx-font-size: 36pt;
+}
+.SubTitle{
+    -fx-font-size: 18pt;
+}
+Text{
+    -fx-font-size: 9pt;
+}
+Button{
+    -fx-end-margin: 10;
+    -fx-start-margin: 10;
+}
